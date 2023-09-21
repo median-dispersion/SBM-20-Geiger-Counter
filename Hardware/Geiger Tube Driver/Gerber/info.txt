@@ -1,0 +1,4 @@
+--- Gerber Files ---
+Date: 2023-09-21
+KiCad: 7.0
+PCB manufacturer: PCBWay (2-layer standard)
